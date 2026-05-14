@@ -2,13 +2,13 @@
 
 👨‍💻 Actualmente estudiando en MangoChango Academy
 
-##Actualmente:
+#### Actualmente:
 
 - Aprendiendo algo nuevo cada día.
 - Explorando el mundo del software.
 - Preparandome para Full Stack Developer
 
-##Tecnologias
+#### Tecnologias
 - Backend :
     - Node.js
 - Frontend:
