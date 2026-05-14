@@ -1,6 +1,6 @@
 ## Atziry Cuxil 👋
 
-👨‍💻 Full Stack Developer | Backend
+👨‍💻 Full Stack Developer
 
 - Aprendiendo algo nuevo cada día.
 - Desarrollador en constante evolución.
