@@ -1,29 +1,29 @@
-👋 Hola, soy Atziry
+## Hola, Soy Atziry Cuxil 👋
 
-💻 Aprendiendo desarrollo web y JavaScript
-🌱 Mejorando mi lógica de programación cada día
-📚 Actualmente practicando proyectos pequeños y ejercicios
-✨ Interesada en crear interfaces simples y funcionales
+Estudiante en MangoChango Academy
 
-🚀 Tecnologías que estoy aprendiendo
-HTML
-CSS
-JavaScript
-Git
-GitHub
-📌 Proyectos
+### Actualmente:
 
-🔹 Calculadora básica en JavaScript
-🔹 Contador de palabras
-🔹 Ejercicios de arrays y loops
-🔹 Validaciones y lógica de programación
+- Aprendiendo algo nuevo cada dia
+- Explorando el mundo del software
+- Preparandome para ser Full Stack Developer
 
-🎯 Objetivos
-Mejorar mi lógica de programación
-Aprender React
-Crear proyectos más completos
-Subir proyectos constantemente a GitHub
+### Aprendiendo Tecnologias:
 
-📫 Contacto
+- Fronted:
+    - HTML
+    - CSS
+    - Bootstrap
+- Lenguajes:
+    - JavaScript
 
-📧 cuxilstziry@gmail.com
+
+#### 🎯 Objetivos:
+
+- Mejorar mi lógica de programación
+- Crear proyectos más completos
+- Subir proyectos constantemente a GitHub
+
+Contacto:
+
+✨ cuxilatziry@gmail.com    
